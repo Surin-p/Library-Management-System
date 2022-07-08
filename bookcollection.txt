@@ -1,0 +1,8 @@
+A monster Calls,Patrick Ness,20,$1.5,9781406365856,Fantasy Fiction
+Skulduggery,Derek Landy,5,$3.5,9780007241620,Detective Mystery
+A refugee Boy,Benjamín Zephaniah,10,$3,9781408894996,Fiction Novel
+Harry Potter,J.K Rowli6ng,30,$2,9781781106464,Adventure Magic Fantasy
+Start with Why,Simon Sinek,20,$1.5,9781591842804,Business
+Programming with Python,John Smith,10,$1.5,9781234567897,Programming
+How I live now,Meg Rosoff,15,$2.5,9780141380759,Alternate history Young adult fiction
+New Town Soul,Dermot Bolger,2,$5,9781848401112,Fiction Thriller

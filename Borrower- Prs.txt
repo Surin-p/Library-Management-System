@@ -1,0 +1,8 @@
+                 Kratoss' Library                  
+         Welcome to Library Management System        
+			Lend to- Prslri
+Date: 2021-09-10	          Time:01:51:47.703756
+___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ____  _____ _____
+
+|S.N.  || 	 Name of Book 	 || 	 AuthorName || 	 Price of Book 	||	 Genre                 |
+|1.     || 	A monster Calls  ||     Patrick Ness||  	  $1.5  ||  Fantasy Fiction        | 

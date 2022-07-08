@@ -1,0 +1,11 @@
+                    Kratoss' Library   
+                       Library Management System  
+             Borrowed By: Prs
+    Date: 2021-09-10    Time:01:52:11.439770
+
+___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ _
+
+S.N. ||	 Name of Book||	 Author Name||	 Price of Book | 
+1|| 	 A monster Calls|| 	  Patrick Ness || 	  1.5 | 
+					Fine: $6
+					Total: $7.5
